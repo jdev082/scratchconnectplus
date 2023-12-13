@@ -1,6 +1,6 @@
-__name__ = "scratchconnect"
-__version__ = "5.0"
-__author__ = "Siddhesh Chavan"
+__name__ = "scratchconnectplus"
+__version__ = "5.1"
+__author__ = "jdev082"
 __documentation__ = "https://sid72020123.github.io/scratchconnect/"
 __doc__ = f"""
 ScratchConnect is a Python Library to connect Scratch API and much more.
