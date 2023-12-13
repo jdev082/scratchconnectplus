@@ -15,7 +15,7 @@ setup(
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     url="https://github.com/jdev082/scratchconnectplus/",
-    author="Siddhesh Chavan",
+    author="jdev082",
     author_email="jdev0894@gmail.com",
     license="MIT",
     classifiers=classifiers,
