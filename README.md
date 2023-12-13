@@ -1,6 +1,6 @@
-# ScratchConnect v5.0
+# ScratchConnectPlus v5.0
 
-Python Library to connect Scratch API and much more.
+This is a continuation of the now discontinued ScratchConnect project and will continue to recieve fixes, patches, and regular updates. **Be aware that these updates are yet to be shipped to PyPi.**
 
 This library can show the statistics of Users, Projects, Studios, Forums and also connect and set cloud variables of a
 project!
@@ -17,24 +17,7 @@ You also need to have the Python programming language installed on your computer
 ![PyPI - Downloads](https://img.shields.io/pypi/dm/scratchconnect)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/sid72020123/scratchconnect)
 
-### Installation
-
-To install this library, just type ```pip install scratchconnect``` in the terminal (Command Prompt)
-
-**OR**
-
-Run this Python program
-
-```python
-import os
-
-os.system('pip install scratchconnect')
-```
-
-**If you still have troubles while installing then go
-to [this link](https://packaging.python.org/tutorials/installing-packages/)**
-
-### Documentation
+### Old WIP Documentation
 
 WIP docs: https://sid72020123.github.io/scratchconnect/
 
