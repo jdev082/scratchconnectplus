@@ -9,14 +9,14 @@ classifiers = [
 ]
 
 setup(
-    name="scratchconnect",
+    name="scratchconnectplus",
     version="5.0",
-    description="Python Library to connect Scratch API and much more. This library can show the statistics of Users, Projects, Studios, Forums and also connect and set cloud variables of a project!",
+    description="Continuation of the ScratchConnect project that interacts with Scratch's various services.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/Sid72020123/scratchconnect/",
+    url="https://github.com/jdev082/scratchconnectplus/",
     author="Siddhesh Chavan",
-    author_email="siddheshchavan2020@gmail.com",
+    author_email="jdev0894@gmail.com",
     license="MIT",
     classifiers=classifiers,
     keywords=['connect scratch', 'scratch api', 'api', 'scratch', 'bot', 'scratch bot',
